@@ -2,14 +2,11 @@
 'RCET0265
 'S2022
 'Fortune Cookie
-'
-
-
+'https://github.com/Morgan-Puckett/ControlFlow_FortuneCookie.git
 
 Option Compare Text
 Option Explicit On
 Option Strict On
-
 Module ControlFlow_FortuneCookie
 
     Sub Main()
